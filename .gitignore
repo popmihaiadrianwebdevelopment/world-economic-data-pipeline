@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Generated databases
+database/*.db
+
+# Generated logs
+logs/*.txt
+
+# Generated pipeline outputs
+data/*.csv
+
+# Test artifacts
+database/test_*.db
+
+# VS Code temporary files
+tempCodeRunnerFile.py
